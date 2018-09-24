@@ -1,0 +1,3 @@
+sh /gpfs/software/Pipelines-3.24.0/Examples/Scripts/PreFreeSurferPipelineBatch_XN_B0_2345.sh >/gpfs/scratch/sabeykoon/HCP_data/outputs/PreFreesurfer_2345.out 2>/gpfs/scratch/sabeykoon/HCP_data/outputs/PreFreesurfer_2345.error
+sh /gpfs/software/Pipelines-3.24.0/Examples/Scripts/PreFreeSurferPipelineBatch_XN_B0_2346.sh >/gpfs/scratch/sabeykoon/HCP_data/outputs/PreFreesurfer_2346.out 2>/gpfs/scratch/sabeykoon/HCP_data/outputs/PreFreesurfer_2346.error
+sh /gpfs/software/Pipelines-3.24.0/Examples/Scripts/PreFreeSurferPipelineBatch_XN_B0_2365.sh >/gpfs/scratch/sabeykoon/HCP_data/outputs/PreFreesurfer_2365.out 2>/gpfs/scratch/sabeykoon/HCP_data/outputs/PreFreesurfer_2365.error
